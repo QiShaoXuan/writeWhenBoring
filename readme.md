@@ -4,6 +4,10 @@
 
 https://qishaoxuan.github.io/animate_resume/
 
+- ts动态简历
+
+https://qishaoxuan.github.io/animate_resume_ts/
+
 - 一堆 `canvas` 球
 
 https://qishaoxuan.github.io/messyBalls/
@@ -16,6 +20,6 @@ https://github.com/QiShaoXuan/parabola
 
 https://qishaoxuan.github.io/particleText/
 
-- 打字动画
+- 文字加载动画
 
-https://qishaoxuan.github.io/animateTyping/
+https://github.com/QiShaoXuan/PAnimate
